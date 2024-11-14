@@ -1,4 +1,4 @@
-readme_content = """
+
 # Intelligent Assignment Evaluator using GenAI and LLM
 
 An advanced **Intelligent Assignment Evaluator** leveraging **Generative AI (GenAI)** and **Large Language Models (LLM)** to automatically assess and evaluate assignments. The system utilizes **Gemini API** for extracting text from images and PDFs, including **handwritten text**, and integrates with **Generative AI** for precise grading, feedback generation, and similarity analysis.
