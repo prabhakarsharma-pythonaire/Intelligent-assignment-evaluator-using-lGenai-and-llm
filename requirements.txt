@@ -1,0 +1,17 @@
+python-dotenv
+pdf2image
+google-generativeai
+ipython
+matplotlib
+langchain_google_genai
+langchain_core
+Flask
+pandas
+pillow
+Levenshtein
+ipykernel
+scikit-learn
+openpyxl
+#-e .
+#pip freeze >requirements_new.txt
+
