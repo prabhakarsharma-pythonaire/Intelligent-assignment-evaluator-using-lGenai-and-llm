@@ -117,7 +117,7 @@ Contact
 For any questions or feedback, feel free to reach out to:
 
 Author: Prabhakar Sharma
-Email: prabhakar@example.com
+Email: prabhakarkumar313@gmail.com
 Acknowledgments
 Gemini API: For providing a powerful tool to extract text from handwritten images and PDFs.
 Generative AI Models: For enabling automated grading and feedback generation.
